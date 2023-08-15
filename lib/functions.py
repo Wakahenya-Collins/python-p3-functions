@@ -37,5 +37,9 @@ number = 67000
 result = halve(number)
 print(result)
 
+def my_future_function():
+    pass
+
+
 
 #     pass
